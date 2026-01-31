@@ -1,4 +1,9 @@
-AI TeachMate Public URLs
+AI TeachMate Public URL
 ==================================================
-[2026-01-31 13:01:13] https://gbs5lvf7-5000.inc1.devtunnels.ms/
+Last Updated: 2026-01-31 13:07:34
+
+Current Public URL:
 https://gbs5lvf7-5000.inc1.devtunnels.ms/
+
+==================================================
+This file is automatically updated when the app starts.
